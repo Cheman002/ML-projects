@@ -1,0 +1,15 @@
+import turtle
+t=turtle.Turtle()
+t.speed(0.25)
+for i in range(500):
+    t.forward(100)  
+    t.right(144)
+    t.forward(100)
+    t.right(144)
+    t.forward(100)
+    t.right(144)
+    t.forward(100)
+    t.right(144)
+    t.forward(100)
+    t.right(144)
+    t.right(67)
