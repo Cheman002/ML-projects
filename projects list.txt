@@ -1,1 +1,20 @@
-
+# making shape using turtle
+1.square
+2.eqilateral triangle
+3.right angle triangle
+4.house
+5.Name
+6.star
+7.icecream
+8.cube
+9.face
+# convert shapes into circle in turtle
+10.square into circle
+11.ET into circle
+12.RAT into circle
+13.house into circle
+14.name into circle
+16.star into circle
+17.cube into circle
+18.face into circle
+19.icecream into circle
