@@ -14,7 +14,7 @@
 12.RAT into circle
 13.house into circle
 14.name into circle
-16.star into circle
-17.cube into circle
-18.face into circle
-19.icecream into circle
+15.star into circle
+16.cube into circle
+17.face into circle
+18.icecream into circle
